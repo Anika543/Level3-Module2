@@ -50,4 +50,6 @@ public class _00_MoreAndMoreTests {
      assertFalse(Algorithms.isCube(22));
      assertFalse(Algorithms.isCube(143));
    }
+   
+  
 }
